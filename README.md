@@ -1,0 +1,2 @@
+# resources
+file、jpg、svg
